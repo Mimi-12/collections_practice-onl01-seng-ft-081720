@@ -45,3 +45,4 @@ def find_a(array_a)
     binding.pry
   array_add.inject (s)
   end
+""
