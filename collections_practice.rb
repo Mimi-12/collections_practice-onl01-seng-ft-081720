@@ -51,4 +51,3 @@ def find_a(array_a)
     end
   array_add
   end
-
