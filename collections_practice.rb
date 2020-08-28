@@ -49,6 +49,6 @@ def find_a(array_a)
       i += 1
 
     end
-  array_add.inject (s)
+  array_add
   end
-""
+
