@@ -42,7 +42,7 @@ def find_a(array_a)
 
 
   def add_s(array_add)
-    binding.pry
+
     i = 0
     while  i < array_add.length
       array_add[i] += "s"
