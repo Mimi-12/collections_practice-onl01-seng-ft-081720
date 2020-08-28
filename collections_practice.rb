@@ -5,7 +5,7 @@ end
 
 def sort_array_desc(array_b)
   binding.pry
-array_b.sort{}
+ array_b.sort{}
 end
 
 def sort_array_char_count(char_count)
