@@ -11,9 +11,9 @@ def sort_array_char_count(char_count)
 end
 
 
-def swap_elements(array_swap)
- change =  ["blake", "ashley", "scott"]
-   swap_elements[1],swap_elements[2] = swap_elements[2],swap_elements[1]
+def swap_elements(array_b,array_c)
+array_b , array_c = array_c,array_b
+return array_b,array_c
 end
 
 
