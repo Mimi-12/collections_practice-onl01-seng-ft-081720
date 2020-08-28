@@ -12,7 +12,7 @@ end
 
 
 def swap_elements(array_swap)
- swap_elements =  ["blake", "ashley", "scott"]
+ change =  ["blake", "ashley", "scott"]
    swap_elements[1],swap_elements[2] = swap_elements[2],swap_elements[1]
 end
 
