@@ -4,6 +4,7 @@ arrays.sort
 end
 
 def sort_array_desc(array_b)
+  binding.pry
 array_b.sort{}
 end
 
