@@ -45,7 +45,7 @@ def find_a(array_a)
 
     i = 0
     while  i < array_add.length
-      
+
    if i != 1
       array_add[i] += "s"
     end
