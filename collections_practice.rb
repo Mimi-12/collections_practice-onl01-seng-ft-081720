@@ -1,3 +1,4 @@
+require 'pry'
 def sort_array_asc(arrays)
 arrays.sort
 end
@@ -41,5 +42,6 @@ def find_a(array_a)
 
 
   def add_s(array_add)
+    binding.pry
   array_add.inject (s)
   end
